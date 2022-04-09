@@ -49,4 +49,4 @@ if [[ $answear = 3 ]]; then
   c=$(( RANDOM % 1000 ))
   echo "$a x² $plusminus1 $b x $plusminus2 $c $zeroelementplace $zero"
 fi
-echo "Thanks for useing script"
+echo "Thanks for using script"
